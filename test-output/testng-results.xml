@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="55" started-at="2016-03-08T21:45:08Z" finished-at="2016-03-08T21:45:08Z">
+  <suite name="Suite" duration-ms="154" started-at="2016-03-09T03:39:17Z" finished-at="2016-03-09T03:39:17Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="55" started-at="2016-03-08T21:45:08Z" finished-at="2016-03-08T21:45:08Z">
+    <test name="Test" duration-ms="154" started-at="2016-03-09T03:39:17Z" finished-at="2016-03-09T03:39:17Z">
       <class name="jesi.second">
-        <test-method status="PASS" signature="f()[pri:0, instance:jesi.second@5b519e2b]" name="f" duration-ms="0" started-at="2016-03-09T03:15:08Z" finished-at="2016-03-09T03:15:08Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:jesi.second@b171cd1]" name="f" duration-ms="1" started-at="2016-03-09T09:09:17Z" finished-at="2016-03-09T09:09:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- jesi.second -->
       <class name="jesi.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:jesi.NewTest@77f5f74a]" name="f" duration-ms="21" started-at="2016-03-09T03:15:08Z" finished-at="2016-03-09T03:15:08Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:jesi.NewTest@8492b68]" name="f" duration-ms="113" started-at="2016-03-09T09:09:17Z" finished-at="2016-03-09T09:09:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
